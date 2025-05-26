@@ -85,5 +85,9 @@ Easy to extend and customize
 
 Ideal for automation and batch processing of document
 
+*OUTPUT*
+
+<img width="913" alt="Image" src="https://github.com/user-attachments/assets/e53cdf98-dcef-48f4-8cea-0c6cebf9da0c" />
+
 
 
